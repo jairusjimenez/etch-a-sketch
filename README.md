@@ -1,6 +1,6 @@
 Odin Project's 3rd Activity: Etch-a-sketch made in jQuery.
 
-This are the 5 features in my work:
+This are the 5 features in my work:<br>
 1. Default etch-a-sketch: Done. The current limit of columns is at 113.<br>
 2. Changing Colors: Done and no bugs! Yay! <br>
 3. Opacity: Done and no bugs! Yay! <br>
